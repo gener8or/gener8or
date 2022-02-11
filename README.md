@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @gener8or
-- 👀 I’m interested in AI, VR, Crypto, Blockchain, Web3, NFTs, and Generative Art
-- 🌱 I’m continuously learning - currently interested in Python, Alchemy, WebRTC, Web3, Raspberry Pi, nVidia Jetson, CircuitPython, NodeRED/node.js, R, Shiny, Leaflet
-- 💞️ I’m looking to collaborate on mind-blowing tech/art projects such as []
+- 👋 Howdy - I’m @gener8or (Alec)
+- 👀 Interested in AI, VR, Crypto, Blockchain, Web3, NFTs, and Generative Art. 
+- 🌱 Lifelong Learner - came to coding late, but still excited by the possibilities it opens up. 
+- 🛠 Tools & Tech I've been exploring recently  - Python, Alchemy, WebRTC, Web3, Raspberry Pi, nVidia Jetson, CircuitPython, NodeRED/node.js, R, Shiny, Leaflet
+- 💞️ Looking to collaborate on mind-blowing tech/art projects such as []
 - 📫 How to reach me - linktr.ee/gener8or
 
 <!---
